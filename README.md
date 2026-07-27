@@ -2,6 +2,8 @@
 
 A secure and production-ready MERN Stack authentication application built with React, Node.js, Express, MongoDB, and JWT. The project implements a two-token authentication flow using access tokens and refresh tokens, allowing users to register, log in, access protected routes, refresh sessions automatically, and log out securely.
 
+Live Demo: https://authentication-1-d15j.onrender.com
+
 ## Project Overview
 
 This project demonstrates a modern authentication system suitable for real-world web applications. JWT-based authentication is used to secure API access while keeping the user experience smooth. An access token is used for short-lived API access, and a refresh token is used to obtain a new access token without requiring the user to sign in again.
@@ -166,7 +168,7 @@ npm run dev
 
 ### Frontend
 
-Deploy the React app to Vercel and configure the environment variables for the production API URL.
+Deploy the React app to Render and configure the environment variables for the production API URL.
 
 ### Backend
 
@@ -189,24 +191,6 @@ This project includes several important security practices:
 - Protected routes to restrict access to authenticated users
 - Environment variables for sensitive credentials
 
-## Screenshots
-
-### Home
-
-(Add screenshot)
-
-### Login
-
-(Add screenshot)
-
-### Register
-
-(Add screenshot)
-
-### Dashboard
-
-(Add screenshot)
-
 ## Future Improvements
 
 Possible enhancements for the project include:
@@ -220,16 +204,12 @@ Possible enhancements for the project include:
 - Account Settings
 - Password Reset
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Author
 
-Name: Your Name
+Name: Vikas Verma
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/vikasverma101
 
-LinkedIn: https://linkedin.com/in/yourusername
+LinkedIn: www.linkedin.com/in/vikas-verma-3bba63286
 
-Email: your.email@example.com
+Email: findtovikas@gmail.com
