@@ -65,7 +65,7 @@ flowchart TD
 
 ### Deployment
 
-- Frontend: Vercel
+- Frontend: Render
 - Backend: Render
 - Database: MongoDB Atlas
 
