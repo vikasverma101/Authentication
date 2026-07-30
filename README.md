@@ -72,7 +72,7 @@ flowchart TD
 ## Folder Structure
 
 ```text
-gath-assignment/
+Authentication/
 ├── client/
 │   ├── public/
 │   ├── src/
@@ -131,7 +131,7 @@ NODE_ENV=development
 
 ```bash
 git clone <your-repository-url>
-cd gath-assignment
+cd Authentication 
 ```
 
 ### 2. Install frontend dependencies
